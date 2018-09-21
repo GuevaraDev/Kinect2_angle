@@ -1,0 +1,32 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.BodyBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Body Basics" 
+        Height="700" Width="700" 
+        Loaded="MainWindow_Loaded"
+        Closing="MainWindow_Closing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e" />
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f" />
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2" />
+    </Window.Resources>
+    <Grid Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Image Grid.Row="0" Source="Images\upv_new.png" HorizontalAlignment="Left" Stretch="Fill" Width="81" Margin="10,10,0,8.8" />
+        <TextBlock Margin="149,0,113.6,40.8" VerticalAlignment="Bottom" Foreground="{StaticResource MediumGreyBrush}" FontFamily="Segoe UI" FontSize="24" Height="33" Width="411" Text="Control de robot planar con Kinect V2" HorizontalAlignment="Center"/>
+        <Image Grid.Row="0" Source="Images\Status.png" Stretch="None" HorizontalAlignment="Center" Margin="612,31,9.6,23.8" Width="52" RenderTransformOrigin="0.415,0.568" />
+
+        <Viewbox Grid.Row="1" HorizontalAlignment="Center">
+            <Image Source="{Binding ImageSource}" Stretch="UniformToFill" />
+        </Viewbox>
+
+        <StatusBar Grid.Row="2" HorizontalAlignment="Center" Name="statusBar" VerticalAlignment="Bottom" Background="White" Foreground="{StaticResource MediumGreyBrush}" FontSize="20">
+            <StatusBarItem Content="{Binding StatusText}" />
+        </StatusBar>
+    </Grid>
+</Window>

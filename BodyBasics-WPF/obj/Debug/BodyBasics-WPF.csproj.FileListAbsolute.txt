@@ -1,0 +1,17 @@
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\MainWindow.baml
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\App.g.cs
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.cache
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CoreCompileInputs.cache
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.CopyComplete
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+D:\UPV\9 Cuatri\6_Control_Inteligente\Proyecto Final\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojAssemblyReference.cache
